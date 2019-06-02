@@ -5,6 +5,6 @@ public class Main {
         System.out.println("Hello Git!");
         System.out.println("Changes!");
         System.out.println("Bla-bla!");
-        System.out.println("I`m in dev");
+        System.out.println("jsdhfjsdbf");
     }
 }
